@@ -16,7 +16,14 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": ""
+					"raw": "?name=zhangwenjie",
+					"query": [
+						{
+							"key": "name",
+							"value": "zhangwenjie",
+							"type": "text"
+						}
+					]
 				}
 			},
 			"response": []
